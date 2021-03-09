@@ -1,2 +1,3 @@
 Am Steph
-<img src="https://github.com/Mooshieblob/Axis-Order-Group-Photo/blob/gh-pages/Group_Photo_Updated_x2.png" height="2672">
+![](https://github.com/Mooshieblob/Axis-Order-Group-Photo/blob/gh-pages/Group_Photo_Updated_x2.png)
+
