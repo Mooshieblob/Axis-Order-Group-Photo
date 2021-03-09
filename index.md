@@ -1,2 +1,2 @@
 Am Steph
-![Screenshot](Group_Photo_Updated_x2.png)
+![](https://github.com/Mooshieblob/Axis-Order-Group-Photo/blob/gh-pages/Group_Photo_Updated_x2.png)
