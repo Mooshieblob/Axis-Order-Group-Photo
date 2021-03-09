@@ -1,2 +1,2 @@
 Am Steph
-![Screenshot](Group_Photo_Updated_x2.png)
+![Photo](Group_Photo_Updated_x2.png)
